@@ -1,0 +1,10 @@
+﻿  Options6.cpp
+  NewOptions.cpp
+  Main.cpp
+  DoubleDigitOpt.cpp
+  BinModel02.cpp
+  Generating Code...
+c:\users\sshah\documents\visual studio 2017\projects\c++\financial computation\hw5\hw5\options6.cpp(120): warning C4715: 'BearSpread::Payoff': not all control paths return a value
+c:\users\sshah\documents\visual studio 2017\projects\c++\financial computation\hw5\hw5\options6.cpp(86): warning C4715: 'BullSpread::Payoff': not all control paths return a value
+  Hw5.vcxproj -> C:\Users\sshah\Documents\Visual Studio 2017\Projects\C++\Financial Computation\Hw5\Debug\Hw5.exe
+  Hw5.vcxproj -> C:\Users\sshah\Documents\Visual Studio 2017\Projects\C++\Financial Computation\Hw5\Debug\Hw5.pdb (Partial PDB)
