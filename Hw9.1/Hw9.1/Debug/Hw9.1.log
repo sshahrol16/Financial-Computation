@@ -1,0 +1,4 @@
+﻿  Main19.cpp
+c:\users\sshah\documents\visual studio 2017\projects\financial computation\hw9.1\hw9.1\bsmodel01.h(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hw9.1.vcxproj -> C:\Users\sshah\Documents\Visual Studio 2017\Projects\Financial Computation\Hw9.1\Debug\Hw9.1.exe
+  Hw9.1.vcxproj -> C:\Users\sshah\Documents\Visual Studio 2017\Projects\Financial Computation\Hw9.1\Debug\Hw9.1.pdb (Partial PDB)
